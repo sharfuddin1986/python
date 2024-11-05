@@ -17,11 +17,11 @@ In programming, a data type is a classification or categorization that specifies
 
   **tuple:** Represents tuples (ordered, immutable sequences). Example: my_tuple = (1, 2, 3)
 
-3. **Mapping Type:**
+3.**Mapping Type:**
 
   **dict:** Represents dictionaries (key-value pairs). Example: my_dict = {'name': 'John', 'age': 30}
 
-4. **Set Types:**
+4.**Set Types:**
 
   **set:** Represents sets (unordered collections of unique elements). Example: my_set = {1, 2, 3}
 
