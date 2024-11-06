@@ -3,7 +3,7 @@ Keywords are reserved words in Python that have predefined meanings and cannot b
 
 Here are some important Python keywords:
 
- **and:** It is a logical operator that returns True if both operands are true.
+ 1. **and:** It is a logical operator that returns True if both operands are true.
 
 **or:** It is a logical operator that returns True if at least one of the operands is true.
 
