@@ -11,6 +11,9 @@ s3_buckets_lists.remove("sanaf_bucket")
 print(len(s3_buckets_lists))
 
 
+new_list = s3_buckets_lists[0:2]
+print(new_list)
+
 
 argument[2]
 print(len(s3_buckets_lists)) #### for bucket length
