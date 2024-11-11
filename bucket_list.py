@@ -15,6 +15,12 @@ new_list = s3_buckets_lists[0:2]
 print(new_list)
 
 
+
+number = [1, 20, 15, 5]
+number.sort()
+print(number)
+
+
 argument[2]
 print(len(s3_buckets_lists)) #### for bucket length
 s3_buckets_lists =  ["sharfuddin_bucket",  "sharfuddin_siaf_bucket",  "sanaf_bucket"]
