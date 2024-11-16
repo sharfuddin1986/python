@@ -1,5 +1,7 @@
 
-#Q1: What is a list in Python, and how is it used in DevOps? A list in Python is a collection of ordered and mutable elements. In DevOps, lists are often used to manage and manipulate data, such as configurations, server names, and deployment targets. For example, you can use a list to store a list of servers that need to be provisioned or configured.
+# Q1: What is a list in Python, and how is it used in DevOps? 
+
+A list in Python is a collection of ordered and mutable elements. In DevOps, lists are often used to manage and manipulate data, such as configurations, server names, and deployment targets. For example, you can use a list to store a list of servers that need to be provisioned or configured.
 
 Q2: How do you create a list in Python, and can you provide an example related to DevOps? In Python, you create a list using square brackets []. Here's an example related to DevOps:
 
