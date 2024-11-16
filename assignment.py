@@ -16,3 +16,6 @@ print("difference:", difference_result)
 print("Product:", product_result)
 print("Quotient:", quotient_result)
 
+# Task 2: Comparison Operators
+Compare the values of a and b using the following comparison operators: <, >, <=, >=, ==, and !=.
+Print the results of each comparison.
