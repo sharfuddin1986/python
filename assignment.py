@@ -1,4 +1,5 @@
-# Task 1: Arithmetic Operators
+ **Task 1:** Arithmetic Operators
+
 
 Create two variables a and b with numeric values.
 Calculate the sum, difference, product, and quotient of a and b.
