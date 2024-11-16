@@ -1,4 +1,4 @@
- **Task 1:** Arithmetic Operators
+# Task 1: Arithmetic Operators
 
 
 Create two variables a and b with numeric values.
